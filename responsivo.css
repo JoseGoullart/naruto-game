@@ -15,10 +15,8 @@
 
 @media (max-width: 767px){
     body::before{
-        background-image: url("../imagens/bg-mobile.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
+       
+       center;
         opacity: 1;
     }
 
@@ -32,7 +30,7 @@
     }
 
     .selecao-de-personagens .personagem-grande{
-        display: none;
+       
     }
 }
 
